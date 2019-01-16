@@ -1,0 +1,2 @@
+# Java-RandomDrawCardsThanSize
+用java实现一个两个用户随机抽取两张扑克牌进行点数大小的比较小游戏
